@@ -1,3 +1,5 @@
+
+
 # Maestría en Excelencia Operacional
 
 ## Universidad Carólica Boliviana (San Pablo)
@@ -8,12 +10,15 @@ Docente: Prof. Ricardo R. Palma (PhD)
 
 
 
-![[portada.png]]
+![portada.png]
 
 Agenda
-![[plan_modulo_DES501_sugerido.pdf]]
 
-[[historia_estrategia_manufactura]]
+
+[Plan Módulo DES501](plan_modulo_sugerido.pdf)
+
+
+[historia_estrategia_manufactura](historia_estrategia_manufactura.md)
 
 [[Introducción a la estrategia de Manufactura Global]]
 
