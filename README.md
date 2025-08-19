@@ -10,7 +10,7 @@ Docente: Prof. Ricardo R. Palma (PhD)
 
 
 
-![portada.png]([portada.png](https://github.com/ricardorpalma/Excelencia_Operacional_UCB/Imagen/portada.png))
+![portada.png](Imagen/portada.png)
 
 Agenda
 
