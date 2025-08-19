@@ -20,6 +20,7 @@ Agenda
 
 [historia_estrategia_manufactura](historia_estrategia_manufactura.md)
 
-[Introducción a la estrategia de Manufactura Global]](Introducción a la estrategia de Manufactura Global.md)
+[Introducción a la estrategia de Manufactura Global](https://github.com/ricardorpalma/Excelencia_Operacional_UCB/blob/main/Introducci%C3%B3n%20a%20la%20estrategia%20de%20Manufactura%20Global.md)
+
 
 [Modelos y marcos de referencia para manufactura global]([Modelos y marcos de referencia para manufactura global.md)
